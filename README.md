@@ -10,7 +10,7 @@ An MCP (Model Context Protocol) server that provides PDF manipulation tools. Thi
 - Merge multiple PDF files into a single PDF in user specified order
 - Extract specific pages from a PDF file
 - Search PDFs *filesystem search or Everything search works better than this*
-- Find related PDFs based on text extraction and regex pattern matching from a target input PDF
+- Find (and merge) related PDFs based on text extraction and regex pattern matching from a target input PDF
 
 ## Installation
 

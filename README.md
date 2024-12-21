@@ -14,9 +14,9 @@ An MCP (Model Context Protocol) server that provides PDF manipulation tools. Thi
 
 ## Installation
 
+1. Clone this repository
+2. 
 ```bash
-# clone this repository
-
 cd mcp-pdf-tools
 
 # Create and activate virtual environment
@@ -27,6 +27,7 @@ uv venv
 uv pip install -e .
 ```
 
+3.
 ## Usage with Claude Desktop
 
 Add this to your Claude Desktop configuration file (claude_desktop_config.json):

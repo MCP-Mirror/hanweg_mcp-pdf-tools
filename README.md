@@ -15,6 +15,10 @@ An MCP (Model Context Protocol) server that provides PDF manipulation tools. Thi
 ## Installation
 
 ```bash
+# clone this repository
+
+cd mcp-pdf-tools
+
 # Create and activate virtual environment
 uv venv
 .venv\Scripts\activate

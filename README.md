@@ -34,7 +34,7 @@ Add this to your Claude Desktop configuration file (claude_desktop_config.json):
             "command": "uv",
             "args": [
                 "--directory",
-                "PATH_TO/mcp-pdf-tools",
+                "PATH_TO\\mcp-pdf-tools",
                 "run",
                 "pdf-tools"
             ]

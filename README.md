@@ -27,7 +27,6 @@ uv venv
 uv pip install -e .
 ```
 
-3.
 ## Usage with Claude Desktop
 
 Add this to your Claude Desktop configuration file (claude_desktop_config.json):

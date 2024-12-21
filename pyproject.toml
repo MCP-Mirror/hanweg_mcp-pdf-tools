@@ -2,10 +2,10 @@
 name = "mcp-pdf-tools"
 version = "0.1.0"
 description = "MCP server for PDF manipulation"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = "MIT"
 authors = [
-    { name = "[Your Name]", email = "[hanwegaltimer@outlook.com]" }
+    { name = "Your Name", email = "hanwegaltimer@outlook.com" }
 ]
 dependencies = [
     "mcp",
@@ -22,3 +22,6 @@ build-backend = "hatchling.build"
 
 [project.scripts]
 pdf-tools = "pdf_tools:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/pdf_tools"]

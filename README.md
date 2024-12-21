@@ -38,8 +38,7 @@ Add this to your Claude Desktop configuration file (claude_desktop_config.json):
                 "run",
                 "pdf-tools"
             ]
-```
         }
     }
 }
-
+```

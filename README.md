@@ -21,6 +21,7 @@ uv venv
 
 # Install the package
 uv pip install -e .
+```
 
 ## Usage with Claude Desktop
 
@@ -37,6 +38,7 @@ Add this to your Claude Desktop configuration file (claude_desktop_config.json):
                 "run",
                 "pdf-tools"
             ]
+```
         }
     }
 }

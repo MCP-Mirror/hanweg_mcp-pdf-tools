@@ -4,6 +4,8 @@
 
 An MCP (Model Context Protocol) server that provides PDF manipulation tools. This server allows LLMs to perform operations like merging PDFs and extracting pages through the Model Context Protocol.
 
+<a href="https://glama.ai/mcp/servers/fqtuoh05xi"><img width="380" height="200" src="https://glama.ai/mcp/servers/fqtuoh05xi/badge" alt="mcp-pdf-tools MCP server" /></a>
+
 ## Features
 
 - Merge multiple PDF files into a single PDF
